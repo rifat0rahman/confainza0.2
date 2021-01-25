@@ -1,8 +1,8 @@
-1.restframework | for create the api
-djoser |for the quick authentication
-multiselectfield |for a model purpose
-corsheader
+rest_framework
+Pillow==6.2.1
+Django==3.1.3
+multiselectfield
+corsheaders
+djoser
+django_readonly_field
 authtoken
-
-
-{% comment %} remaining responsiveness and demo items apply and products timeline working like a charm.workign time 1day {% endcomment %}
