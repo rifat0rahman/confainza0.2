@@ -1,0 +1,8 @@
+1.restframework | for create the api
+djoser |for the quick authentication
+multiselectfield |for a model purpose
+corsheader
+authtoken
+
+
+{% comment %} remaining responsiveness and demo items apply and products timeline working like a charm.workign time 1day {% endcomment %}
